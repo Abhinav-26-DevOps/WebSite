@@ -4,4 +4,4 @@ This is my repository used for practising Automation with Docker, Jenkins and Gi
 <br>
 Practising DevOps, its bit difficult yr ☹️
 <br>
-<a href="emagazine.blogspot.com">
+<a href="emagazine.blogspot.com">click here</a>
